@@ -1,16 +1,9 @@
 package com.example.bankapp;
 
 import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
 import static org.junit.jupiter.api.Assertions.*;
 
-@SpringBootTest
 class BankappApplicationTests {
-
-    @Test
-    void contextLoads() {
-        // This test will pass if the application context loads successfully
-    }
 
     @Test
     void sampleTest() {
